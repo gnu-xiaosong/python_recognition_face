@@ -1,0 +1,2 @@
+# python_recognition_face
+python实现人脸检测识别
